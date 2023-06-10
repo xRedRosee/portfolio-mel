@@ -14,12 +14,12 @@ On the index.vue file, you can see the homepage of the portfolio. Here is a big 
 
 ## Setup
 
-npm install
-npm run dev
-Start the development server on `http://localhost:3000`
+- npm install
+- npm run dev
+- Start the development server on `http://localhost:3000`
 
-to build the website, run the following command:
-npm run build
+#### to build the website, run the following command:
+- npm run build
 
 ## Contributor
 
